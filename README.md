@@ -28,3 +28,6 @@ This is a simple counter application built with React and Vite. The app allows u
    ```sh
    git clone https://github.com/your-username/counter-app.git
    cd counter-app
+2. Install dependencies: 
+    ```sh
+    pnpm install
